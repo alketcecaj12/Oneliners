@@ -14,3 +14,7 @@
 - Fifth, your new one-liner skill set will allow you to see through overly complicated Python codebases, and impress friends and interviewers alike. You may also find it fun and satisfying to solve challenging
    programming problems with a single line of code. And you wouldn’t be alone: a vibrant online community of Python geeks compete for the most compressed,
   most Pythonic solutions to various practical (and not-so-practical) problems.
+
+
+<img src = "oneliners.png" width = "800" height = "400">
+
