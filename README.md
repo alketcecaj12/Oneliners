@@ -16,5 +16,5 @@
   most Pythonic solutions to various practical (and not-so-practical) problems.
 
 
-<img src = "oneliners.png" width = "800" height = "400">
+<img src = "oneliners.png" width = "800" height = "200">
 
